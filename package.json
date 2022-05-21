@@ -23,6 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^8.0.0",
     "@willsoto/nestjs-prometheus": "^4.6.0",
     "prom-client": "^14.0.1",
